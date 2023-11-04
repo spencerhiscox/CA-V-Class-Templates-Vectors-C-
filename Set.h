@@ -1,4 +1,8 @@
-©Spencer Hiscox, 2023
+/*
+Copyright© Spencer Hiscox, 2023
+All Rights Reserved
+*/
+
 
 // A template-based class for a set. The actual data is
 // stored in a vector and the set class operates as a
